@@ -18,7 +18,7 @@ jobs:
 	 
     # passo a passo das acoes do job
     steps:
-        # clone
+        # clone do projeto
          - uses: actions/checkout@V4
          #- uses: actions/setup-node@v4
 	     #  with:
