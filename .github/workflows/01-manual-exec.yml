@@ -1,6 +1,6 @@
 # CI de Nível 01 - Disparo manual a partir de 1 clique
 
-# nome que vai aparecer la nas opções de pipe
+# nome que vai aparecer la nas opções de pipeline
 
 name: 'Execução Manual'
 
