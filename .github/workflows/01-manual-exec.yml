@@ -15,6 +15,7 @@ jobs:
   e2e-tests:
     # maquina que o job vai executar
     runs-on: ['ubuntu-latest']
+    
     # passo a passo das acoes do job
     steps:
       # clone do projeto
