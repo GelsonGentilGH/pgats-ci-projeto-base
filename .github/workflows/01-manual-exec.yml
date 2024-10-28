@@ -1,6 +1,6 @@
 # CI de Nível 01 - Disparo manual a partir de 1 clique
 
-# nome que vai aparecer la nas opções de pipeline
+# nome que vai aparecer la nas opções de pipeline do git
 
 name: 'Execução Manual'
 
