@@ -23,7 +23,7 @@ jobs:
 
       - name: Padronizacao de Codigo (Lint)
         run: yarn lint
-  
+
   unit:
     runs-on: ubuntu-latest
 
