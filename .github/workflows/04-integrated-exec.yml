@@ -10,7 +10,7 @@ on:
 
 jobs:
   inspection:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
   e2e-tests:
 
@@ -27,7 +27,7 @@ jobs:
 
      - name: Padronização de código (Lint)
        run: yarn lint
-       
+
      - name: Instalando playwright
        run: yarn playwright install
 
